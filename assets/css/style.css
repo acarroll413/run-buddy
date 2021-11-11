@@ -1,4 +1,11 @@
 body {
+    /* more on this alphanumerical value in a minute! */
+    color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
-    Background-color: tomato;
+}
+
+/* apply styles to <header> */
+header {
+    padding: 20 px 35px;
+    background-color: #39a6b2;
 }
